@@ -1,6 +1,6 @@
 ## Open Pages
 
-[Password Maker](https://github.com/YoshuaNakashima/HTML5/Password-Maker.html)
+[Password Maker](https://yoshuanakashima.github.io/HTML5/Password-Maker.html)
 
 ## Welcome to GitHub Pages
 
